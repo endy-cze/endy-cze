@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Siemens Industrial Edge
+- 🔭 I’m currently working on Edge Computing Technology and AI
 - 💬 Ask me about Docker, Edge, Networking, Security
